@@ -1,0 +1,30 @@
+body {
+  font-size: 62.5%;
+  width: 1140px;
+  margin: auto;
+}
+image {
+  width: 100%;
+}
+.first {
+  font-family: "Noto Serif", serif;
+}
+h1,
+h2,
+h3 {
+  font-family: "Barlow", sans-serif;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.125rem;
+}
+h1 {
+  font-size: 1.802rem;
+}
+
+h2 {
+  font-size: 1.602rem;
+}
+h3 {
+  font-size: 1.424rem;
+}
